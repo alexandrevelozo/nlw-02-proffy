@@ -37,22 +37,22 @@
 <div align="center">
   <img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/landing-mobile.PNG" alt="Landing mobile" width="397" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./.github/list-item-mobile.png" alt="List-item mobile" width="397" />
+  <img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/list-item-mobile.PNG" alt="List-item mobile" width="397" />
 </div>
 <br/>&nbsp;
 
 <div align="center">
-  <img src="./.github/selector-mobile.png" alt="Selector mobile" width="397" />
+  <img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/selector-mobile.PNG" alt="Selector mobile" width="397" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="./.github/proffy-mobile.png" alt="Quer ser um proffy" width="397" />
+  <img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/proffy-mobile.PNG" alt="Quer ser um proffy" width="397" />
 </div>
 
 <h4>Web:</h4>
 
-<img src="./.github/landing-page.jpg" alt="Langing page Web" />
+<img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/landing-page.JPG" alt="Langing page Web" />
 <br/>&nbsp;
 
-<img src="./.github/list-item.jpg" alt="List-item web" />
+<img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/list-item.JPG" alt="List-item web" />
 <br/>&nbsp;
 
 <h2 id="techs"> Technologies </h2>
