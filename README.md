@@ -70,6 +70,10 @@ This project was developed with the following technologies:
 - [Axios](https://github.com/axios/axios)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 
+### mobile:
+- [ReactNative](https://reactnative.dev/) with [Typescript](https://www.typescriptlang.org/)
+- [Axios](https://github.com/axios/axios)
+
 
 <br/>&nbsp;
 
