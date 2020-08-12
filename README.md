@@ -35,7 +35,7 @@
 <h4>Mobile:</h4>
 
 <div align="center">
-  <img src="./.github/landing-mobile.png" alt="Landing mobile" width="397" />
+  <img src="https://github.com/alexandrevelozo/nlw-02-proffy/blob/master/.github/landing-mobile.PNG" alt="Landing mobile" width="397" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./.github/list-item-mobile.png" alt="List-item mobile" width="397" />
 </div>
