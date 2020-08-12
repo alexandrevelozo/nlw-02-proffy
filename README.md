@@ -3,15 +3,15 @@
   <img src="./.github/purple-logo.svg" width="200px" /> <br />
 
   <a href="https://www.linkedin.com/in/alexandre-velozo-70626019b/">
-      <img alt="Alexandre Velozo" src="https://img.shields.io/badge/-alexandrevelozo-8257E5?style=flat&logo=Linkedin&logoColor=white" />
+      <img alt="Alexandre Velozo" target="blank" src="https://img.shields.io/badge/-alexandrevelozo-8257E5?style=flat&logo=Linkedin&logoColor=white" />
    </a>
   
   <a href="https://twitter.com/Alexand41906340">
-    <img src="https://img.shields.io/badge/-%40Alexand41906340-8257E5?style=flat&logo=Twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-%40Alexand41906340-8257E5?style=flat&logo=Twitter&logoColor=white"  target="blank" />
   </a>
 
   <a href="https://mailto:alexandrevelozo4@gmail.com">
-    <img alt="Higor Denomar" src="https://img.shields.io/badge/-alexandrevelozo4%40gmail.com-8257E5?style=flat&logo=Gmail&logoColor=white" />
+    <img alt="Higor Denomar" src="https://img.shields.io/badge/-alexandrevelozo4%40gmail.com-8257E5?style=flat&logo=Gmail&logoColor=white" target="blank" />
   </a>
   
   <br/>
