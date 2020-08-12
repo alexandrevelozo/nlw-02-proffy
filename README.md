@@ -59,7 +59,7 @@
 
 This project was developed with the following technologies:
 
-### backend:
+### server:
 - [Node.js](https://nodejs.org/en/docs/) with [Typescript](https://www.typescriptlang.org/)
 - [SQLite](https://www.sqlite.org/index.html) with [Knex](http://knexjs.org/)
 - [Express](https://expressjs.com/)
@@ -85,7 +85,7 @@ From your command line:
 # download the repository
 > git clone https://github.com/alexandrevelozo/nlw-02-proffy
 
-# backend
+# server
 > yarn install
 > yarn start
 
