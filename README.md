@@ -83,7 +83,7 @@ From your command line:
 
 ```sh
 # download the repository
-> git clone https://github.com/alexandrevelozo/proffy
+> git clone https://github.com/alexandrevelozo/nlw-02-proffy
 
 # backend
 > yarn install
